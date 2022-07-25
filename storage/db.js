@@ -1,2 +1,2 @@
 const mongoose= require("mongoose")
-module.exports=mongoose.connect("mongodb+srv://saraswati:saraswati123@cluster0.wf793.mongodb.net/?retryWrites=true&w=majority")
+module.exports=mongoose.connect("mongodb+srv://saraswatiii:saraswati@cluster0.ni4w4.mongodb.net/?retryWrites=true&w=majority")
